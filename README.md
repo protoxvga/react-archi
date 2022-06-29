@@ -1,2 +1,3 @@
-# react-clean-architecture
-React clean architecture template created with create-react-app templates.
+# react-archi
+
+Welcome to the react-archi documentation

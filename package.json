@@ -1,6 +1,6 @@
 {
     "name": "cra-template-react-archi",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "description": "Clean architecture template for react app",
     "main": "index.js",
     "author": "Pierre Perrin <protoxvga> (https://github.com/protoxvga)",
@@ -11,6 +11,6 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": ["react", "typescript", "architecture"],
+    "keywords": ["react", "typescript", "@chakra-ui/react", "create-react-app"],
     "license": "ISC"
 }

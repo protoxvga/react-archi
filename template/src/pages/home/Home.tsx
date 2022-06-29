@@ -2,7 +2,7 @@ import style from "./style/home.module.css";
 
 import logo from "assets/logo.svg";
 
-import { Heading } from '@chakra-ui/react'
+import { Heading, Text } from '@chakra-ui/react'
 
 const HomePage = () => {
     return(
@@ -13,7 +13,7 @@ const HomePage = () => {
                 className={style.logo}
             />
             <Heading>Welcome to react-archi</Heading>
-            <Heading>A Typescript - ChakraUI template</Heading>
+            <Text fontSize='4xl'>A Typescript + ChakraUI template</Text>
             <a
                 href="https://github.com/protoxvga/react-clean-architecture"
                 target="_blank"

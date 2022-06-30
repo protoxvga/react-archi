@@ -12,5 +12,5 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": ["react", "typescript", "@chakra-ui/react", "create-react-app"],
-    "license": "ISC"
+    "license": "MIT"
 }

@@ -1,0 +1,16 @@
+{
+    "name": "cra-template-typescript-chakra",
+    "version": "1.1.3",
+    "description": "Clean architecture template with create-react-app base, typescript language and chakraUI  library",
+    "main": "index.js",
+    "author": "Pierre Perrin <protoxvga> (https://github.com/protoxvga)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/protoxvga/react-archi"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["react", "typescript", "@chakra-ui/react", "create-react-app"],
+    "license": "MIT"
+}

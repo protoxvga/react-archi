@@ -1,6 +1,7 @@
 # react-archi
 
 Welcome to the react-archi template documentation based on [Create React App](https://github.com/facebook/create-react-app)
+This documentation is about the typescript-chakra template. If you want more, please visit my GitHub [repository](https://github.com/protoxvga/react-archi)
 
 ## Why react-archi ?
 

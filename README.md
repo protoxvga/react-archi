@@ -2,6 +2,8 @@
 
 Welcome to the react-archi template documentation based on [Create React App](https://github.com/facebook/create-react-app)
 
+Please if you have any advice, problem or need. Open an issue and we can talk about it :)
+
 ## Why react-archi ?
 
 This template is based on a personnal need when I build a new react project.
